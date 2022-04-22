@@ -1,5 +1,5 @@
 Weekly Meet: 1 Meeting Agenda: To implement Use-Case-Diagram. Date - 25:03:2022 Starting Time: 5:00PM Ending Time: 20:00PM
-Made some corrections to Use-Case-diagram.
+Made some corrections to Use-Case-diagram./n
 Weekly Meet: 2 Meeting Agenda: To implement Class Diagram and . Date - 25:03:2022 Starting Time: 5:00PM Ending Time: 20:00PM
 Made some corrections to class diagram.
 Weekly Meet: 3 Meeting Agenda: Making Sequence Diagram. Date - 29:03:2022 Starting Time: 6:00PM Ending Time: 21:30PM
